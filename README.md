@@ -5,9 +5,7 @@ This is for my college task and i'm using Yuki Ishikawa as the person in display
 ![Untitled](https://github.com/Widyantari/flutter4yuki/blob/master/assets/images/display.png)
 
 ## Widget 
-Scaffold, SafeArea, CustomScrollView, SliverToBoxAdapter
-Stack, Container, Text, Row, Column, Icon, GestureDetector
-BoxDecoration, EdgeInsets, BoxShadow, SizedBox
+Scaffold, SafeArea, CustomScrollView, SliverToBoxAdapter, Stack, Container, Text, Row, Column, Icon, GestureDetector, BoxDecoration, EdgeInsets, BoxShadow, SizedBox
 
 
 
