@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
                         children: [
                           SizedBox(height: 10),
                           Text(
-                            'Widyantari Nuriyanti',
+                            'Yuki Ishikawa',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 24,
@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
                           ),
                           SizedBox(height: 8),
                           Text(
-                            '5026221137',
+                            'Sir Safety Perugia',
                             style: TextStyle(
                               color: Colors.white70,
                             ),
